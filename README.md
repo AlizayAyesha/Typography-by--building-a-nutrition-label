@@ -20,7 +20,7 @@ To view the nutrition label, simply open the index.html file in a web browser. Y
 <br>
 
 **Results**
-You can also the results here
+You can also see the results here
 ![image](https://github.com/AlizayAyesha/Typography-by--building-a-nutrition-label/assets/68489612/017f5f9e-3ba3-4736-99fb-72a25a04f946)
 
 
